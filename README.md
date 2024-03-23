@@ -8,6 +8,7 @@
 ## Affiliation
 
 Wakeland High School, Frisco, TX 75034, United States
+Eigen Sciences, Apex, NC 27502, United States
 
 ## Overview
 
@@ -33,7 +34,7 @@ To make the most out of the resources provided in this repository, follow these 
 
 ## Note
 
-Should you encounter any issues or have inquiries regarding the files and their usage, please do not hesitate to open an issue in this repository. For direct communication, you may also email us at eigensciences@gmail.com.
+Should you encounter any issues or have inquiries regarding the files and their usage, please do not hesitate to open an issue in this repository. For direct communication, you may also email us at eigensciences@gmail.com and meghna.krishna19@gmail.com
 
 ## Support
 
