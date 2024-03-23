@@ -1,4 +1,5 @@
 #this script is used to compute protein-protein hydrogen bond interactions
+# usage: python interactions.py [Protein Name]
 
 from Bio.PDB import PDBParser, NeighborSearch
 import numpy as np
